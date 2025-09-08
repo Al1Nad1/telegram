@@ -1,7 +1,7 @@
 Hi, Welcome to My Telegram AP-project
 This project was developed as part of the Advanced Programming (AP) course at Shahid Beheshti University (SBU).
-We built a backend system inspired by Telegram, focusing on scalability and real-time communication.
-The server was implemented entirely in Java, using socket programming with JSON/Gson for communication.
+We built an program inspired by Telegram, focusing on scalability and real-time communication.
+The backend-server was implemented entirely in Java, using socket programming with JSON/Gson for communication.
 Our team of three students collaborated, and I was primarily responsible for the backend API and protocol design.
 The system supports user registration, login, and session handling with secure password hashing.
 We implemented messaging, private chats, groups, channels, and chat lists with pagination and unread counters.
